@@ -2,66 +2,84 @@
   <img src="preview.png" alt="Project Preview" width="800"/>
 </p>
 
-# Conical Bumper Assembly – Structural & Fatigue Analysis (FEA)
+# 📘 Conical Bumper Assembly – Structural & Fatigue Analysis (FEA)
 
-This project investigates the structural integrity and fatigue life of a conical bumper assembly using advanced finite element analysis techniques. The study focuses on nonlinear material behavior, contact interactions, stress distribution, and fatigue evaluation according to the **FKM Guideline**.
-
----
-
-## 🔧 Project Overview
-
-The goal of this analysis is to evaluate the load-carrying capacity, deformation behavior, and durability of a conical bumper unit under operational loads. Using ANSYS Workbench, multiple simulations were performed to study:
-
-- Nonlinear elastic–plastic material behavior  
-- Contact between assembly components  
-- Stress and deformation profiles  
-- Fatigue safety factors according to FKM  
-
-A refined mesh and convergence-guided workflow were applied to ensure accurate and reliable results.
+This project analyzes the structural integrity, deformation behavior, and fatigue life of a **conical bumper assembly** using advanced nonlinear finite element methods in **ANSYS Workbench**.  
+The study focuses on realistic operating conditions, including **elastic–plastic material behavior**, **contact interactions**, **stress concentrations**, and fatigue evaluation according to the **FKM Guideline**.
 
 ---
 
-## 📘 Contents
+## 🚀 Motivation
 
-This repository includes:
+Conical bumper assemblies are widely used as protective or energy-absorbing elements in mechanical systems. Their complex geometry and contact-dominated behavior require detailed simulation to ensure structural reliability.  
+This project was carried out as part of an advanced simulation course to deepen skills in:
 
-- **Final PDF Report** – complete documentation of the analysis  
-- **Geometry description**  
-- **Simulation setup**  
-- **Material data**  
-- **Boundary conditions & loads**  
-- **FEA results (stress, deformation, safety factors)**  
-
----
-
-## 🛠 Tools & Methods
-
-- **ANSYS Workbench** – Static Structural & Fatigue analysis  
-- **Nonlinear FEA** – plasticity, large deflection  
-- **Contact modelling** – frictional and bonded contacts  
-- **Mesh refinement strategy** – local refinement and convergence checks  
-- **FKM Guideline (6th Edition)** – fatigue & static strength evaluation  
+- Nonlinear FEA  
+- Mesh refinement strategies  
+- Contact formulation  
+- Fatigue safety assessment  
+- Engineering documentation & reporting  
 
 ---
 
-## 📊 Key Findings
+## 🧩 Project Objectives
 
-- Critical stress regions identified near fillets and contact interfaces  
-- Stress concentrations strongly influenced by geometry transitions  
-- Required number of cones determined to satisfy global load and crash criteria  
-- Fatigue verification shows a safe design with a utilisation of approx. 6.4%  
-
----
-
-## 📚 Academic Context
-
-This project was completed as part of the course **Advanced Simulation Technologies** in the M.Sc. Mechanical Engineering programme at Hochschule Rhein-Waal.
+- Evaluate the **load-carrying capacity** of the conical bumper assembly  
+- Analyze **deformation mechanisms** under operational loads  
+- Investigate **stress distribution** and critical zones  
+- Determine **fatigue safety factors** using the FKM Guideline  
+- Provide engineering recommendations based on simulation results  
 
 ---
 
-## 📩 Contact
+## ⚙️ Methodology
 
-If you have questions or would like to discuss FEA, simulation modelling, or mechanical design:
+### Simulation Environment
+
+- **Software:** ANSYS Workbench (Mechanical)  
+- **Analysis Types:**  
+  - Nonlinear static structural  
+  - Fatigue analysis (stress-based, per FKM)  
+
+### Key Modeling Aspects
+
+- Elastic–plastic material model  
+- Frictional contact between multiple assembly components  
+- Mesh refinement in high-gradient regions  
+- Load case setup based on realistic operating conditions  
+
+---
+
+## 📊 Results Overview
+
+- Identification of stress peaks caused by contact and geometric discontinuities  
+- Deformation patterns under maximum loading  
+- Fatigue safety factor evaluation (FKM): safe and critical regions highlighted  
+- Recommendations for structural improvement and design optimization  
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Nonlinear finite element analysis (FEA)  
+- Fatigue evaluation with **FKM Guideline**  
+- Contact mechanics & meshing strategy  
+- Engineering reporting & result interpretation  
+- ANSYS Workbench simulation workflow  
+
+---
+
+## 📄 Repository Contents
+
+- `Murad_Tagiyev_ADV_Sim.pdf` – Full engineering report  
+- `README.md` – Project documentation overview  
+
+---
+
+## 📬 Contact
+
+If you have questions about the simulation or want to collaborate on FEA or mechanical design projects, feel free to reach out:
 
 **Murad Tagiyev**  
 murad.tagizade.486@gmail.com
+
