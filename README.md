@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png" alt="Project Preview" width="800"/>
+</p>
+
 # Conical Bumper Assembly – Structural & Fatigue Analysis (FEA)
 
 This project investigates the structural integrity and fatigue life of a conical bumper assembly using advanced finite element analysis techniques. The study focuses on nonlinear material behavior, contact interactions, stress distribution, and fatigue evaluation according to the **FKM Guideline**.
