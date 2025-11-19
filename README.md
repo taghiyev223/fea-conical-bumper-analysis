@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="preview.png" alt="Project Preview" width="800"/>
+  <img src="preview.png" alt="Conical bumper FEA preview" width="800"/>
 </p>
 
 # 📘 Conical Bumper Assembly – Structural & Fatigue Analysis (FEA)
@@ -12,7 +12,8 @@ The study focuses on realistic operating conditions, including **elastic–plast
 ## 🚀 Motivation
 
 Conical bumper assemblies are widely used as protective or energy-absorbing elements in mechanical systems. Their complex geometry and contact-dominated behavior require detailed simulation to ensure structural reliability.  
-This project was carried out as part of an advanced simulation course to deepen skills in:
+
+This project was carried out as part of an Advanced Simulation course to deepen skills in:
 
 - Nonlinear FEA  
 - Mesh refinement strategies  
@@ -37,7 +38,7 @@ This project was carried out as part of an advanced simulation course to deepen 
 ### Simulation Environment
 
 - **Software:** ANSYS Workbench (Mechanical)  
-- **Analysis Types:**  
+- **Analysis types:**  
   - Nonlinear static structural  
   - Fatigue analysis (stress-based, per FKM)  
 
@@ -62,7 +63,7 @@ This project was carried out as part of an advanced simulation course to deepen 
 ## 🛠️ Skills Demonstrated
 
 - Nonlinear finite element analysis (FEA)  
-- Fatigue evaluation with **FKM Guideline**  
+- Fatigue evaluation with the **FKM Guideline**  
 - Contact mechanics & meshing strategy  
 - Engineering reporting & result interpretation  
 - ANSYS Workbench simulation workflow  
@@ -82,4 +83,3 @@ If you have questions about the simulation or want to collaborate on FEA or mech
 
 **Murad Tagiyev**  
 murad.tagizade.486@gmail.com
-
